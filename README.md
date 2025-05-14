@@ -1,2 +1,1 @@
-# HTTP-checker
-bash
+Simple HTTP-checker bash code
